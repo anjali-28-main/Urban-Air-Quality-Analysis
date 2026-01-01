@@ -1,5 +1,9 @@
 # Urban Air Quality Analysis for Sustainable Cities
 
+[![View Notebook](https://img.shields.io/badge/View-Notebook-orange?logo=jupyter)](https://nbviewer.org/github/yourusername/Urban-Air-Quality-Analysis/blob/main/notebooks/urban_air_quality_analysis.ipynb)
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yourusername/Urban-Air-Quality-Analysis/main?filepath=notebooks/urban_air_quality_analysis.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/Urban-Air-Quality-Analysis/blob/main/notebooks/urban_air_quality_analysis.ipynb)
+
 ## Overview
 This project performs comprehensive analysis of urban air quality data from various cities across India to identify trends, patterns, and actionable insights for sustainable urban development. The analysis focuses on key air pollutants and their impact on public health and environmental sustainability.
 
@@ -71,7 +75,24 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-## Usage
+## View Online (No Installation Required)
+
+You can view and interact with this analysis directly online without any setup:
+
+### Option 1: View Static Notebook (Fastest)
+Click the **"View Notebook"** badge above or visit:
+```
+https://nbviewer.org/github/yourusername/Urban-Air-Quality-Analysis/blob/main/notebooks/urban_air_quality_analysis.ipynb
+```
+This provides a fast, rendered view of the notebook with all visualizations.
+
+### Option 2: Interactive Execution (Binder)
+Click the **"Launch Binder"** badge above to run the notebook interactively in your browser. This may take 1-2 minutes to load.
+
+### Option 3: Google Colab
+Click the **"Open in Colab"** badge to run the notebook in Google Colab.
+
+## Usage (Local Setup)
 1. Open the Jupyter notebook: `notebooks/urban_air_quality_analysis.ipynb`
 2. Run all cells sequentially to reproduce the analysis
 3. Explore visualizations and insights
